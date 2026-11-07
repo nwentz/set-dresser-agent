@@ -19,7 +19,7 @@ Scatters rocks and trees on a customizable ground plane while:
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/nwentz/set-dresser-agent.git
    ```
 
 2. Navigate to the repository and copy the `maya_scripts/` folder to your Maya scripts directory:
